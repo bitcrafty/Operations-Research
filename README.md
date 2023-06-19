@@ -1,5 +1,5 @@
-# ETC.
-This repo contains some notes and stuff regarding data science..
+# Operations Research
+This repo contains some notes and stuff regarding operations research.
 <br>
 Look around and see if you can find anything useful for yourself...
 
